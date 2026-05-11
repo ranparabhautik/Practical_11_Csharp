@@ -1,0 +1,36 @@
+﻿
+@model Practical_11_final.Models.User
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id)
+
+  
+
+    <div class="form-control">
+        @Html.LabelFor(x => x.Name)
+        @Html.TextBoxFor(x => x.Name)
+        @Html.ValidationMessageFor(x => x.Name)
+    </div>
+
+    <div class="form-control">
+        @Html.LabelFor(x => x.DOB)
+        @Html.TextBoxFor(x => x.DOB,"{0:yyyy-MM-dd}", new {type = "date"})
+        @Html.ValidationMessageFor(x => x.DOB)
+    </div>
+
+    <div class="form-control">
+        @Html.LabelFor(x => x.Address)
+        @Html.TextBoxFor(x => x.Address)
+        @Html.ValidationMessageFor(x => x.Address)
+    </div>
+
+
+    <button type="submit">
+        @(Model != null && Model.Id > 0 ? "Update" : "Save")
+
+
+    </button>
+
+
+}

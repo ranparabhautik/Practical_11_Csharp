@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical-11-final\\practical-11-final\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\partial_user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\partial_user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\partial_user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\partial_user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\partial_user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\partial_user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\partial_user\\_formpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\partial_user\\_formpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\controllers\\partial_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\controllers\\partial_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\partial_user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\partial_user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\practical-11-final\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{998F01FB-B17D-4F13-8639-FD785826AAD1}|Practical-11-final\\Practical-11-final.csproj|solutionrelative:practical-11-final\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\Partial_User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Details.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\Partial_User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:44:43.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\Partial_User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Index.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\Partial_User\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:18:40.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\Partial_User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Edit.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\Partial_User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:09:06.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_FormPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\_FormPartialView.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\Partial_User\\_FormPartialView.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\_FormPartialView.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\Partial_User\\_FormPartialView.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:07:46.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\Partial_User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Partial_User\\Create.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\Partial_User\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:06:14.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T07:28:11.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Partial_UserController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Controllers\\Partial_UserController.cs",
+              "RelativeDocumentMoniker": "Practical-11-final\\Controllers\\Partial_UserController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Controllers\\Partial_UserController.cs",
+              "RelativeToolTip": "Practical-11-final\\Controllers\\Partial_UserController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:50:51.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T06:43:44.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Practical-11-final\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Practical-11-final\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:33:00.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T06:10:52.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T05:52:30.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical-11-final\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Practical-11-final\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T05:42:26.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Practical-11-final\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Models\\User.cs",
+              "RelativeToolTip": "Practical-11-final\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:40:45.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Practical-11-final\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Practical-11-final\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:40:14.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practical-11-final\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-11-final\\Practical-11-final\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practical-11-final\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:39:46.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

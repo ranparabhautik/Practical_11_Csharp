@@ -1,0 +1,30 @@
+﻿@model Practical_11_final.Models.User
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name)
+
+    <br />
+    <br />
+
+    @Html.LabelFor(x => x.DOB)
+    @Html.TextBoxFor(x => x.DOB, "{0:yyyy-MM-dd}", new { type = "date" })
+
+    <br />
+    <br />
+
+    @Html.LabelFor(x => x.Address)
+    @Html.TextAreaFor(x => x.Address)
+
+    <br />
+    <br />
+
+    <button type="submit"> Edit User</button>
+}

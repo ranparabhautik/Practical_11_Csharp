@@ -1,0 +1,9 @@
+﻿@model Practical_11_final.Models.User
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@*// calling partial view to edit the user*@
+@Html.Partial("_FormPartialView", Model)

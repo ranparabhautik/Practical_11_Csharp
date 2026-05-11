@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create User</h2>
+
+<form method="post" action="/User/Create">
+
+    <div>
+        <label>Name</label><br />
+        <input type="text" name="Name" required />
+    </div>
+
+    <br />
+
+    <div>
+        <label>DOB</label><br />
+        <input type="date" name="DOB" required />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Address</label><br />
+        <input type="text" name="Address" required />
+    </div>
+
+    <br />
+
+    <input type="submit" value="Create" />
+
+</form>
+
+<br />
+
+<a href="/User/Index">Back to List</a>

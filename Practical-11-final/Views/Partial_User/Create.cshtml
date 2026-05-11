@@ -1,0 +1,10 @@
+﻿@model Practical_11_final.Models.User
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@*// calling partial view for the user creation*@
+@Html.Partial("_FormPartialView", Model)
+
